@@ -1,5 +1,7 @@
 <img src="https://github.com/ff741333/ff741333/blob/main/xiao.gif" alt="Here is a little bit about me!">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ff741333&show_icons=true" alt="Xiao Github Stats"></img>
+</p>
 <!--
 **ff741333/ff741333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
