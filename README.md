@@ -1,4 +1,4 @@
-<img src="https://github.com/ff741333/ff741333/blob/master/xiao.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/ff741333/ff741333/blob/main/xiao.gif" alt="Here is a little bit about me!">
 
 <!--
 **ff741333/ff741333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
